@@ -76,7 +76,7 @@ The final report is exported as a styled, paginated **PDF** with:
 
 > **Name:** Kareem Aboelfetoh  
 > **Email:** kareemkhaled758@gmail.com  
-> **GitHub:** [k-aboeletoh](https://github.com/k-aboeletoh)
+> **GitHub:** [k-aboeletoh](https://github.com/k-aboelfetoh)
 
 ---
 
